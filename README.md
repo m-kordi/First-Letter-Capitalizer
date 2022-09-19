@@ -1,2 +1,2 @@
 # First-Letter-Capitalizer
-string => array
+first letter capitalizer
